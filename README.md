@@ -1,3 +1,4 @@
+![expesne](https://github.com/intmain10/expense-tracker/assets/100391857/4ffa5605-c896-48c1-b0dc-0903e22da71f)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
